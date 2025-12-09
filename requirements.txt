@@ -1,0 +1,5 @@
+sounddevice
+scipy
+playsound
+google-genai
+python-dotenv
