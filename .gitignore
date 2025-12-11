@@ -4,7 +4,7 @@ __pycache__/
 
 # Virtual environments
 venv/
-.env/
+.env
 .venv/
 
 # Audio files (recordings)
